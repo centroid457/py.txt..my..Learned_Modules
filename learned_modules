@@ -6,18 +6,18 @@ pyinstaller,
 RE,
 time, datetime, timeit,
 platform,
-pkgutil, modulefinder, 
+pkgutil, modulefinder,
 winreg,
 collections, Itertools,
 
 ipaddpess,
 string, textwrap,
 fileinput, linecashe, filecmp, 
-glob, os, pathlib, zipfile, tempfile,
+glob, pathlib, zipfile, tempfile, shutil
 
 winsound, playsound,
 
-csv, configparser (ini-файлы), json, OpenPyXL (excel), tabulate,
+csv, configparser (ini-файлы), json, tabulate,
 
 Logging,
 THREADING (все виды блокировок: GIL,RLock,Condition...), shed,
@@ -30,7 +30,8 @@ TelnetLib,
 USED GENERAL PERPOSE but bon't fully learned
 or start learn but not finished
 --------------------------------------------
-timeit
-subprocess
-openpyxl
-psutil
+sys, os, 
+timeit,
+subprocess,
+openpyxl (excel),
+psutil,
