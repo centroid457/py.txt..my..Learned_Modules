@@ -3,7 +3,8 @@ FULLY LEARNED BY ORIGINAL DOCS
 ------------------------------
 getpass,
 pyinstaller,
-RE,
+
+sys,
 time, datetime, timeit,
 platform,
 pkgutil, modulefinder,
@@ -17,6 +18,7 @@ glob, pathlib, zipfile, tempfile, shutil
 
 winsound, playsound,
 
+RE,
 csv, configparser (ini-файлы), json, tabulate,
 
 Logging,
@@ -30,7 +32,7 @@ TelnetLib,
 USED GENERAL PERPOSE but bon't fully learned
 or start learn but not finished
 --------------------------------------------
-sys, os, 
+os, 
 timeit,
 subprocess,
 openpyxl (excel),
