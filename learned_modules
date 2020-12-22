@@ -12,7 +12,7 @@ winreg,
 collections, Itertools,
 
 ipaddpess,
-string, textwrap,
+string, textwrap, shlex
 fileinput, linecashe, filecmp, 
 glob, pathlib, zipfile, tempfile, shutil
 
