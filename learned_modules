@@ -13,8 +13,8 @@ collections, Itertools,
 
 ipaddpess,
 string, textwrap, shlex
-fileinput, linecashe, filecmp, 
-glob, pathlib, zipfile, tempfile, shutil
+fileinput, linecashe, filecmp,
+GLOB, PATHLIB, zipfile, TEMPFILE, shutil
 
 winsound, playsound,
 
@@ -22,9 +22,10 @@ RE,
 csv, configparser (ini-файлы), json, tabulate,
 
 Logging,
-THREADING (все виды блокировок: GIL,RLock,Condition...), shed,
+SUBPROCESS, shed,
+THREADING (все виды блокировок: GIL,RLock,Condition...),
 Smtplib, email,
-TKINTER(GUI), pystray(трей),
+TKINTER(GUI), PYSTRAY(трей),
 PIL/Pillow (2d графика),
 TelnetLib,
 
@@ -34,6 +35,5 @@ or start learn but not finished
 --------------------------------------------
 os, 
 timeit,
-subprocess,
 openpyxl (excel),
 psutil,
