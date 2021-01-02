@@ -4,7 +4,7 @@ FULLY LEARNED BY ORIGINAL DOCS
 getpass,
 pyinstaller,
 
-sys, sysconfig
+os, sys, sysconfig
 time, datetime, timeit,
 platform,
 pkgutil, modulefinder,
@@ -33,7 +33,6 @@ TelnetLib,
 USED GENERAL PERPOSE but bon't fully learned
 or start learn but not finished
 --------------------------------------------
-os, 
 timeit,
 openpyxl (excel),
 psutil,
