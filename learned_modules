@@ -4,7 +4,7 @@ FULLY LEARNED BY ORIGINAL DOCS
 getpass,
 pyinstaller,
 
-os, sys, sysconfig
+os, sys, sysconfig, venv,
 time, datetime, timeit,
 platform,
 pkgutil, modulefinder,
