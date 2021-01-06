@@ -22,7 +22,7 @@ RE,
 csv, configparser (ini-файлы), json, tabulate,
 
 Logging,
-SUBPROCESS, shed,
+SUBPROCESS, shed, signal
 THREADING (все виды блокировок: GIL,RLock,Condition...),
 Smtplib, email,
 TKINTER(GUI), PYSTRAY(трей),
