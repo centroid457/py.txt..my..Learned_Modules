@@ -10,6 +10,7 @@ platform,
 pkgutil, modulefinder,
 winreg,
 collections, Itertools, functools
+statistics
 
 ipaddpess,
 string, textwrap, shlex
