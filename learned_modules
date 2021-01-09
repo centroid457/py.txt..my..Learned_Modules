@@ -9,7 +9,7 @@ time, datetime, timeit,
 platform,
 pkgutil, modulefinder,
 winreg,
-collections, Itertools,
+collections, Itertools, functools
 
 ipaddpess,
 string, textwrap, shlex
