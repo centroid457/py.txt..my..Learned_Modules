@@ -30,6 +30,7 @@ TKINTER(GUI), PYSTRAY(трей),
 PIL/Pillow (2d графика),
 TelnetLib,
 
+PyContracts(contracts)
 ============================================
 USED GENERAL PERPOSE but bon't fully learned
 or start learn but not finished
