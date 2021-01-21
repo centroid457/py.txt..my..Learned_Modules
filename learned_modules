@@ -9,7 +9,7 @@ time, datetime, timeit,
 platform,
 pkgutil, modulefinder,
 winreg,
-collections, Itertools, functools
+copy, collections, Itertools, functools
 statistics
 
 ipaddpess,
