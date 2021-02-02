@@ -12,12 +12,12 @@ winreg,
 copy, collections, Itertools, functools
 statistics
 
-ipaddpess,
+IPADDPESS,
 string, textwrap, shlex
-fileinput, linecashe, filecmp,
+FILEINPUT, linecashe, filecmp,
 GLOB, PATHLIB, zipfile, TEMPFILE, shutil
 
-winsound, playsound,
+WINSOUND, playsound,
 
 RE,
 csv, configparser (ini-файлы), json, tabulate,
@@ -28,7 +28,7 @@ THREADING (все виды блокировок: GIL,RLock,Condition...),
 Smtplib, email,
 TKINTER(GUI), PYSTRAY(трей),
 PIL/Pillow (2d графика),
-TelnetLib,
+TelnetLib, pexpect 
 
 PyContracts(contracts)
 ============================================
