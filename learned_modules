@@ -18,6 +18,7 @@ FILEINPUT, linecashe, filecmp,
 GLOB, PATHLIB, zipfile, TEMPFILE, shutil
 
 WINSOUND, playsound,
+clipboard, pyperclip,
 
 RE,
 csv, configparser (ini-файлы), json, tabulate,
