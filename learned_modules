@@ -20,7 +20,7 @@ GLOB, PATHLIB, zipfile, TEMPFILE, shutil
 WINSOUND, playsound,
 clipboard, pyperclip,
 
-RE,
+RE, difflib, 
 csv, configparser (ini-файлы), json, tabulate,
 
 Logging,
