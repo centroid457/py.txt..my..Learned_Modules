@@ -30,6 +30,7 @@ Smtplib, email,
 TKINTER(GUI), PYSTRAY(трей),
 PIL/Pillow (2d графика),
 TelnetLib, pexpect 
+webbrowser
 
 PyContracts(contracts)
 ============================================
