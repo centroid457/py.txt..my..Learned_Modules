@@ -1,45 +1,46 @@
 ==============================
-FULLY LEARNED BY ORIGINAL DOCS
++ = FULLY LEARNED BY ORIGINAL DOCS
+~ = USED GENERAL PERPOSE but bon't fully learned or start learn but not finished
+- = not used
 ------------------------------
-getpass,
-pyinstaller,
++getpass,
++PYINSTALLER,
 
-os, sys, sysconfig, venv, keyword 
-time, datetime, timeit,
-platform,
-pkgutil, modulefinder,
-winreg,
-copy, collections, Itertools, functools
-statistics
++os, +sys, +sysconfig, +venv, +keyword 
++time, +datetime, ~timeit,
++platform,
+
++pkgutil, +modulefinder,
++winreg,
++copy, +collections, +Itertools, +functools
++statistics
 
 string, textwrap, shlex
-FILEINPUT, linecashe, filecmp,
-GLOB, PATHLIB, zipfile, TEMPFILE, shutil
++FILEINPUT, +linecashe,
++filecmp, +difflib,
++GLOB, +PATHLIB, +zipfile, +TEMPFILE, +shutil
 
-WINSOUND, playsound,
-clipboard, pyperclip,
+~psutil,
 
-RE, difflib, 
-csv, configparser (ini-файлы), json, tabulate,
++WINSOUND, +playsound,
++clipboard, +pyperclip,
 
-Logging,
-SUBPROCESS, shed, signal
-THREADING (все виды блокировок: GIL,RLock,Condition...),
-Smtplib, email,
++RE, +csv, +configparser (ini-файлы), +json, ~openpyxl (excel)
++tabulate,
 
-IPADDPESS, socketserver,
-TelnetLib, pexpect 
-webbrowser
++Logging,
++SUBPROCESS, +shed, +signal
++THREADING (все виды блокировок: GIL,RLock,Condition...),
+~Smtplib, ~email,
 
-PyContracts(contracts)
++IPADDPESS, +socketserver,
++TelnetLib, +pexpect
 
-PIL/Pillow (2d графика),
-TKINTER(GUI), PYSTRAY(трей),
++webbrowser
+
++doctest, +PyContracts(contracts)
+
++PIL/Pillow (2d графика),
++TKINTER(GUI), +PYSTRAY(трей),
 
 ============================================
-USED GENERAL PERPOSE but bon't fully learned
-or start learn but not finished
---------------------------------------------
-timeit,
-openpyxl (excel),
-psutil,
